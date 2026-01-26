@@ -1,0 +1,7 @@
+{
+  "name": "EX・NAKATA Official Site",
+  "description": "滋賀県・京都南部エリアを拠点とするアルミ外構専門加工・販売店「EX・NAKATA」の公式サイト。職人直営の技術と特注対応で理想のエクステリアを実現します。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
