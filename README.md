@@ -1,0 +1,1 @@
+# my-gamini-ex.nakata
